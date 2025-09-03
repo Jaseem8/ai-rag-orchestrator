@@ -8,3 +8,5 @@ The agent runs an iterative loop:
 4. **Final Answer**: Emitted once target condition is met.
 
 <!-- Sliding window notes -->
+
+<!-- Sliding window notes -->
