@@ -196,3 +196,5 @@ class VectorStore:
             scores.append((doc, sim))
         scores.sort(key=lambda x: x[1], reverse=True)
         return scores[:top_k]
+
+# Modularized sparse tokenizer
