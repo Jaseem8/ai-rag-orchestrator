@@ -198,3 +198,5 @@ class VectorStore:
         return scores[:top_k]
 
 # Modularized sparse tokenizer
+
+# Cached normalized vectors
