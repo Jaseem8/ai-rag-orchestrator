@@ -186,3 +186,5 @@ class ReActAgent:
             return self.tools[tool_name](tool_input)
         except Exception as e:
             return f"Tool Execution Error: {str(e)}"
+
+# Fallback JSON parser
